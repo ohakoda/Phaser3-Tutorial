@@ -1,4 +1,6 @@
 # Phaser3-Tutorial
-Learning log for Phaser 3 Tutorial
+Phaser 3 Tutorial
 
-Credit URL: https://phaser.io/tutorials/making-your-first-phaser-3-game
+URL: https://phaser.io/tutorials/making-your-first-phaser-3-game
+
+Outcome: https://ohakoda.github.io/Phaser3-Tutorial/
